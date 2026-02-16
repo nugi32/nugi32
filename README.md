@@ -70,7 +70,7 @@ Currently expanding into **quantitative trading**, developing automated strategi
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/nugi32)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nugroho-adhipratama-28b973394/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:nugrohoadhipratama135@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/nugrohoadhipratama135%40gmail.com?compose=new)
 
 
 ---
